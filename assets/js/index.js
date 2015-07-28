@@ -14,12 +14,12 @@ var skills_array = [
     {text: 'Bootstrap', weight: 4},
     {text: 'Wordpress', weight: 4},
     {text: 'CodeIgniter', weight: 4},
-    {text: 'Jekyll', weight: 3},
-    {text: 'Siteleaf', weight: 3},
-    {text: 'LaTeX', weight: 2},
-    {text: 'Java', weight: 2},
-    {text: 'C++', weight: 2},
-    {text: 'Haskell', weight: 2}
+    {text: 'Jekyll', weight: 4},
+    {text: 'Siteleaf', weight: 4},
+    {text: 'LaTeX', weight: 3},
+    {text: 'Java', weight: 3},
+    {text: 'C++', weight: 3},
+    {text: 'Haskell', weight: 3}
 //    {text: "Ipsum", weight: 9, link: "http://jquery.com/"},
 //    {text: "Dolor", weight: 6, html: {title: "I can haz any html attribute"}},
 ];

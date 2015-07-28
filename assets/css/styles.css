@@ -41,16 +41,41 @@
 
 }
 
-/* Generic Styles */
+/* -------------------------------- */
+/* Generic Styles ----------------- */
+/* -------------------------------- */
+html * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    font-size: 100%;
+    font-family: "OpenSans", serif;
+    color: #7f8c97;
+    background-color: #e9f0f5;
+}
+a {
+    color: #16A085;
+    text-decoration: none;
+    font-family: "OpenSans", sans-serif;
+}
+img {
+    max-width: 100%;
+}
 h1 {
     font-family: 'OpenSansBold', Arial, sans-serif;
     text-transform: uppercase;
 }
-h2 {
-    font-family: 'OpenSansBold', Arial, sans-serif;
-    text-transform: uppercase;
-    font-size: 18px;
-}
+/*h2 {*/
+    /*font-family: 'OpenSansBold', Arial, sans-serif;*/
+    /*text-transform: uppercase;*/
+    /*font-size: 18px;*/
+/*}*/
 h3 {
     font-size: 14px;
 }
@@ -72,6 +97,9 @@ body {
     font-family: 'OpenSans', Arial, sans-serif;
     font-size: 14px;
     font-weight: 400;
+}
+a:hover {
+    text-decoration: none;
 }
 .float-left {
     float: left;
@@ -215,9 +243,6 @@ ul.timeline li .desc h3 {
     font-size: 16px;
     margin: 0;
     padding: 0;
-}
-ul.timeline li .desc h3 a {
-    color: #16A085;
 }
 ul.timeline li .descn p {
     font-size: 1.3em;
