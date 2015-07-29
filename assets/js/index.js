@@ -4,6 +4,7 @@ var skills_array = [
     {text: 'SQL', weight: 9},
     {text: 'HTML', weight: 8},
     {text: 'CSS', weight: 8},
+    {text: 'GO', weight: 4},
     {text: 'JavaScript', weight: 7},
     {text: 'PrototypeJS', weight: 6},
     {text: 'JQuery', weight: 6},

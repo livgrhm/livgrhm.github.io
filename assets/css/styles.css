@@ -71,11 +71,10 @@ h1 {
     font-family: 'OpenSansBold', Arial, sans-serif;
     text-transform: uppercase;
 }
-/*h2 {*/
-    /*font-family: 'OpenSansBold', Arial, sans-serif;*/
-    /*text-transform: uppercase;*/
-    /*font-size: 18px;*/
-/*}*/
+h2 {
+    font-family: 'OpenSansBold', Arial, sans-serif;
+    font-size: 18px;
+}
 h3 {
     font-size: 14px;
 }
@@ -170,6 +169,11 @@ a:hover {
 }
 #header #navigation .nav-pills > li.active a {
     cursor: default;
+}
+
+/* Footer */
+#footer {
+    padding-bottom: 10px;
 }
 
 /* Timeline */
