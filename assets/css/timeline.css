@@ -190,7 +190,8 @@
 }
 .cd-timeline-content p,
 .cd-timeline-content .cd-date {
-    font-size: 12px;
+    font-size: 14px;
+    font-family: 'OpenSans', Arial, sans-serif;
 }
 .cd-timeline-content .cd-date {
     display: inline-block;
