@@ -110,64 +110,64 @@ a:hover {
 
 /* Colours */
 .fc-turquoise {
-    color: #1abc9c;
+    background: #1abc9c;
 }
 .fc-greensea {
-    color: #16a085;
+    background: #16a085;
 }
 .fc-sunflower {
-    color: #f1c40f;
+    background: #f1c40f;
 }
 .fc-orange {
-    color: #f39c12;
+    background: #f39c12;
 }
 .fc-emerald {
-    color: #2ecc71c;
+    background: #2ecc71c;
 }
 .fc-nephritis {
-    color: #27ae60;
+    background: #27ae60;
 }
 .fc-carrot {
-    color: #e67e22;
+    background: #e67e22;
 }
 .fc-pumpkin {
-    color: #d35400;
+    background: #d35400;
 }
 .fc-peterriver {
-    color: #3498db;
+    background: #3498db;
 }
 .fc-belizehole {
-    color: #2980b9;
+    background: #2980b9;
 }
 .fc-alizarin {
-    color: #e74c3c;
+    background: #e74c3c;
 }
 .fc-pomegranate {
-    color: #c0392b;
+    background: #c0392b;
 }
 .fc-amethyst {
-    color: #9b59b6;
+    background: #9b59b6;
 }
 .fc-wisteria {
-    color: #8e44ad;
+    background: #8e44ad;
 }
 .fc-clouds {
-    color: #ecf0f1;
+    background: #ecf0f1;
 }
 .fc-silver {
-    color: #bdc3c7;
+    background: #bdc3c7;
 }
 .fc-wetasphalt {
-    color: #34495e;
+    background: #34495e;
 }
 .fc-midnightblue {
-    color: #2c3e50;
+    background: #2c3e50;
 }
 .fc-concrete {
-    color: #95a5a6;
+    background: #95a5a6;
 }
 .fc-asbestos {
-    color: #7f8c8d;
+    background: #7f8c8d;
 }
 
 /* Page Styles */
