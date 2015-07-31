@@ -107,6 +107,9 @@ a:hover {
 .float-right {
     float: right;
 }
+.top {
+    padding-top: 15px;
+}
 
 /* Colours */
 .fc-turquoise {
